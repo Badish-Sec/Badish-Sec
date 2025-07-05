@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adityan B aka Badish</h1>
 <h3 align="center">I am a passionate Cybersecurity Student and Researcher studying for my MSc in Digital Forensics and Information Security at NFSU.</h3>
 
-- 🔭 I’m currently working on **5G Intergrated IIoT Testbed**
+- 🔭 I’m currently working on -> **5G Intergrated IIoT Testbed**
 
-- 🌱 I’m currently learning **OT/SCADA Security & Protocols, PLC Programming**
+- 🌱 I’m currently learning -> **OT/SCADA Security & Protocols, PLC Programming**
 
-- 📫 How to reach me **badishsec@gmail.com**
+- 📫 How to reach me -> **badishsec@gmail.com**
 
-- ⚡ Fun fact **Did you know the Modbus protocol was invented in 1979 by Modicon which is today's Schneider Electric**
+- ⚡ Fun fact -> **Did you know the Modbus protocol was invented in 1979 by Modicon which is today's Schneider Electric**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
