@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adityan B aka Badish</h1>
+<h1 align="center">Hi 👋, I'm Adityan B aka badi-sh</h1>
 <h3 align="center">I am a passionate Cybersecurity Student and Researcher studying for my MSc in Digital Forensics and Information Security at NFSU.</h3>
 
 - 🔭 I’m currently working on **5G Intergrated IIoT Testbed**
